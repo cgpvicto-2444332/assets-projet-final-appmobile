@@ -4,7 +4,7 @@ This project was created for educational purposes only.
 
 ## ⚠️ Disclaimer
 
-All NHL and AHL team logos, names, and trademarks are the property of their respective owners.
+All NHL, AHL and other team logos, names, and trademarks are the property of their respective owners.
 
 These assets are used strictly for non-commercial and educational purposes.
 
@@ -14,4 +14,5 @@ If you are a rights holder and would like any content removed, please contact me
 
 ## Assets
 
-Logos are sourced from publicly available resources on the internet.
+Logos are sourced from publicly available resources, including:
+https://www.stickpng.com/cat/sports/ice-hockey/national-hockey-league
